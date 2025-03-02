@@ -1,42 +1,7 @@
 [
- 
-  {
-    "name": "24Six",
-    "icon_url": "https://play-lh.googleusercontent.com/J71XX-lMLZZtzZXI08P6hnYr6KB9_JkVEM9QVVeVSn5LDNVKWtBokfIbmaodFivEkmdw",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/tfs.apk",
-    "package_name": "app.tfs.prod",
-    "app_version": "63.0.0"
-  },
-  {
-    "name": "G-Calendar",
-    "icon_url": "https://play-lh.googleusercontent.com/_bh6XK3B7TAk7kBXC1GHC0j9eS9cw9wQo2K7fiP7FDGAQlcOqgUPT2lx3WgZ0JlOJh8=w480-h960-rw",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/gcal.apk",
-    "package_name": "com.google.android.calendar",
-    "app_version": "2021.49.2-416232454-release"
-  },
-  {
-    "name": "K9 Email",
-    "icon_url": "https://play-lh.googleusercontent.com/14NO0m0A4HsPPx_5NE1t00HZA3M2rV0gRAM7609uDeazxcVD7IvzUphL5FV3yf5WLU8=w480-h960-rw",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/k9mail.apk",
-    "package_name": "com.fsck.k9",
-    "app_version": "6.804"
-  },
-    {
-    "name": "Email Login",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/default.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/kel.apk",
-    "package_name": "de.baumann.browser",
-    "app_version": "9.6"
-  },
-  {
-    "name": "Uber",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/uber.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/uber.apk",
-    "package_name": "com.ubercab",
-    "app_version": "4.532.10002"
-  }, 
-  {
-    "name": "Siddur",
+
+ {
+    "name": "KEFS3Siddur",
     "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/siddur.png",
     "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/siddur.apk",
     "package_name": "com.karriapps.smartsiddurlite",
@@ -56,7 +21,6 @@
     "package_name": "com.android.cts.weather",
     "app_version": "5.1.7"
   },
-
   {
     "name": "Zmanim",
     "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/zmanim.png",
@@ -65,31 +29,10 @@
     "app_version": "2.3"
   },
   {
-    "name": "PDF Reader",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/pdf.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/pdf.apk",
-    "package_name": "com.gsnathan.pdfviewer",
-    "app_version": "3.7"
-  },
-  {
     "name": "Smartlist",
     "icon_url": "https://play-lh.googleusercontent.com/SyMBZzT1vIdpmJmbCnKy9o8LuK8jVJgAaEVsTn0V7sF3-op2Zztv8kz07SXU9qEGjcE",
     "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/smartlist.apk",
     "package_name": "com.android.cts.lionscribe.elist",
     "app_version": "17.54"
-  },
-  {
-    "name": "תפילת הדרך",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/tfhd.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/tfhd.apk",
-    "package_name": "com.android.cts.haderech",
-    "app_version": "1.0"
-  },
-  {
-    "name": "Hebdate",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/hebdate.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/hebdate.apk",
-    "package_name": "com.lionscribe.hebdate",
-    "app_version": "8.40"
   }
 ]
