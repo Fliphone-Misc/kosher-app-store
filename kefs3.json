@@ -1,38 +1,10 @@
 [
-
- {
-    "name": "KEFS3Siddur",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/siddur.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/siddur.apk",
-    "package_name": "com.karriapps.smartsiddurlite",
-    "app_version": "7.5.279"
-  },
+ 
   {
-    "name": "Waze",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/waze.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/stockwaze.apk",
-    "package_name": "com.waze",
-    "app_version": "4.105.0.2"
-  },
-  {
-    "name": "Weather",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/weather.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/weather.apk",
-    "package_name": "com.android.cts.weather",
-    "app_version": "5.1.7"
-  },
-  {
-    "name": "Zmanim",
-    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/zmanim.png",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/zmanim.apk",
-    "package_name": "com.android.cts.smartzmanimk",
-    "app_version": "2.3"
-  },
-  {
-    "name": "Smartlist",
-    "icon_url": "https://play-lh.googleusercontent.com/SyMBZzT1vIdpmJmbCnKy9o8LuK8jVJgAaEVsTn0V7sF3-op2Zztv8kz07SXU9qEGjcE",
-    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/smartlist.apk",
-    "package_name": "com.android.cts.lionscribe.elist",
-    "app_version": "17.54"
+    "name": "תפילת הדרך",
+    "icon_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/icons/tfhd.png",
+    "download_url": "https://kosherappstore.nyc3.digitaloceanspaces.com/tfhd.apk",
+    "package_name": "com.android.cts.haderech",
+    "app_version": "1.0"
   }
 ]
