@@ -8,18 +8,19 @@
     "app_version": "1.0"
   },
   {
-    "name": "TestApp",
-    "icon_url": "https://raw.githubusercontent.com/Fliphone-Misc/kosher-app-store/refs/heads/main/Icons/Test.png",
-    "download_url": "https://github.com/Fliphone-Misc/kosher-app-store/raw/refs/heads/main/APKs/Test.apk",
-    "package_name": "com.fliphone.mouse",
-    "app_version": "1.0"
-  },
-  {
     "name": "App Launcher",
     "icon_url": "https://raw.githubusercontent.com/Fliphone-Misc/kosher-app-store/refs/heads/main/Icons/AppLauncher.png",
     "download_url": "https://github.com/Fliphone-Misc/kosher-app-store/raw/refs/heads/main/APKs/AppLauncher.apk",
     "package_name": "org.chromium.chrome",
     "app_version": "1.17"
+  },
+  {
+    "name": "Waze Reset",
+    "icon_url": "https://raw.githubusercontent.com/Fliphone-Misc/kosher-app-store/refs/heads/main/Icons/Waze.png",
+    "download_url": "https://github.com/Fliphone-Misc/kosher-app-store/raw/refs/heads/main/APKs/ResetWaze.apk",
+    "package_name": "org.chromium.chrome",
+    "app_version": "1.17"
   }
+  
   
 ]
