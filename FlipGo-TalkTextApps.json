@@ -13,7 +13,7 @@
     "download_url": "https://github.com/Fliphone-Misc/kosher-app-store/raw/refs/heads/main/APKs/TefilasHaderech.apk",
     "package_name": "com.android.cts.haderech",
     "app_version": "1.0"
-  }
+  },
   {
     "name": "Secure Block Guide",
     "icon_url": "https://raw.githubusercontent.com/Fliphone-Misc/kosher-app-store/refs/heads/main/Icons/SecureBlock.png",
